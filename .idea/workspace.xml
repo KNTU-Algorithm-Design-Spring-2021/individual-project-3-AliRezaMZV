@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19b9de9a-b9f7-444a-9aa4-c3a90a9df028" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tZixnrkmwQzB1gaKzWANQl5Aa8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="james_bond" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="individual-project-3-AliRezaMZV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/james_bond.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.james_bond" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19b9de9a-b9f7-444a-9aa4-c3a90a9df028" name="Default Changelist" comment="" />
+      <created>1622983260128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622983260128</updated>
+      <workItem from="1622983261596" duration="62000" />
+      <workItem from="1622983404030" duration="3931000" />
+      <workItem from="1622987426073" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1809" height="267" key="GridCell.Tab.0.bottom" timestamp="1622987444869">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state width="1809" height="267" key="GridCell.Tab.0.bottom/65.28.1855.1052@65.28.1855.1052" timestamp="1622987444869" />
+    <state width="1809" height="267" key="GridCell.Tab.0.center" timestamp="1622987444868">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state width="1809" height="267" key="GridCell.Tab.0.center/65.28.1855.1052@65.28.1855.1052" timestamp="1622987444868" />
+    <state width="1809" height="267" key="GridCell.Tab.0.left" timestamp="1622987444867">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state width="1809" height="267" key="GridCell.Tab.0.left/65.28.1855.1052@65.28.1855.1052" timestamp="1622987444867" />
+    <state width="1809" height="267" key="GridCell.Tab.0.right" timestamp="1622987444868">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state width="1809" height="267" key="GridCell.Tab.0.right/65.28.1855.1052@65.28.1855.1052" timestamp="1622987444868" />
+    <state x="481" y="189" width="1022" height="736" key="SettingsEditor" timestamp="1622984249502">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state x="481" y="189" width="1022" height="736" key="SettingsEditor/65.28.1855.1052@65.28.1855.1052" timestamp="1622984249502" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/individual_project_3_AliRezaMZV$james_bond.coverage" NAME="james_bond Coverage Results" MODIFIED="1622987432198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
